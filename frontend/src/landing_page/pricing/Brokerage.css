@@ -1,0 +1,9 @@
+.nav-tabs .nav-link.active {
+  border-bottom: 2px solid #2a55e5;
+  font-weight: 600;
+  color: #000;
+}
+.nav-tabs .nav-link {
+  color: #2a55e5;
+  cursor: pointer;
+}
