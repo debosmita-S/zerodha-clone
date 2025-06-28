@@ -6,8 +6,8 @@ function Footer() {
       <div className="container">
         <div className="row mt-4">
           <div className="col-3 pt-2 me-5">
-              <a class="navbar-brand" href="#">
-              <img src="media/images/logo.svg" style={{ width: "70%"}} className="mb-3"/>
+              <a href="#" class="navbar-brand">
+              <img src="media/images/logo.svg" style={{ width: "70%"}} className="mb-3" alt="" />
             </a>
             <p>
               © 2010 - 2025, Zerodha Broking Ltd.

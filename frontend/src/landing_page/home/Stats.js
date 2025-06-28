@@ -17,7 +17,7 @@ function Stats() {
                     <p className='mb-4 text-muted'>With initiatives like <a href='' style={{textDecoration:"none"}}>Nudge</a> and <a href='' style={{textDecoration:"none"}}>Kill Switch</a>, we don't just facilitate transactions, but actively help you do better with your money.</p>
                 </div>
                 <div className='col-6'>
-                    <img src='media/images/ecosystem.png' style={{width:"100%"}}/>
+                    <img src='media/images/ecosystem.png' style={{width:"100%"}} alt="" />
                     <div className='text-center'>
                         <a href='' className='mx-4' style={{ textDecoration: "none", color: "#1a73e8", fontWeight: "500" }}>Explore our products <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                         </a>
@@ -28,7 +28,7 @@ function Stats() {
             </div>
             
             <div className='p-4 mx-5 row text-center'>
-                <a href=''> <img src='media/images/pressLogos.png'/></a>
+                <a href=''> <img src='media/images/pressLogos.png' alt="" /></a>
             </div>
         </div>
      );

@@ -8,8 +8,8 @@ function Navbar() {
         <div class="container">
 
           <Link class="navbar-brand" to="/">
-            {/* <img src="media/images/zyrodha_logo.png" style={{ width: "12.8%", height: "9%", objectFit: "contain"}}/> */}
-            <img src="media/images/logo.svg" style={{ width: "25%"}}/>
+            {/* <img src="media/images/zyrodha_logo.png" style={{ width: "12.8%", height: "9%", objectFit: "contain"}} alt="" /> */}
+            <img src="media/images/logo.svg" style={{ width: "25%"}} alt="" />
           </Link>
           <button
             class="navbar-toggler"

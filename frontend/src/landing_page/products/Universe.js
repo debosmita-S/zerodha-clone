@@ -11,21 +11,21 @@ function Universe() {
       </div>
       <div className="d-flex flex-wrap fs-6 text-muted">
         <div className="row gap-4 col-4 p-5">
-          <img src="media/images/zerodhaFundhouse.png"></img>
+          <img src="media/images/zerodhaFundhouse.png" alt="" /></img>
           <p className="text-center">
             Our asset management venture that is creating simple and transparent
             index funds to help you save for your goals.
           </p>
         </div>
         <div className="row gap-4 col-4 p-5">
-          <img src="media/images/sensibullLogo.svg"></img>
+          <img src="media/images/sensibullLogo.svg" alt="" /></img>
           <p className="text-center">
             Our asset management venture that is creating simple and transparent
             index funds to help you save for your goals.
           </p>
         </div>
         <div className="row gap-4 col-4 p-5">
-          <img src="media/images/tijori.svg"></img>
+          <img src="media/images/tijori.svg" alt="" /></img>
           <p className="text-center">
             Our asset management venture that is creating simple and transparent
             index funds to help you save for your goals.
@@ -33,21 +33,21 @@ function Universe() {
         </div>
 
         <div className="row gap-4 col-4 p-5">
-          <img src="media/images/streakLogo.png"></img>
+          <img src="media/images/streakLogo.png" alt="" /></img>
           <p className="text-center">
             Systematic trading platform that allows you to create and backtest
             strategies without coding.
           </p>
         </div>
         <div className="row gap-4 col-4 p-5">
-          <img src="media/images/smallcaseLogo.png"></img>
+          <img src="media/images/smallcaseLogo.png" alt="" /></img>
           <p className="text-center">
             Thematic investing platform that helps you invest in diversified
             baskets of stocks on ETFs.
           </p>
         </div>
         <div className="row gap-4 col-4 p-5">
-          <img src="media/images/dittoLogo.png"></img>
+          <img src="media/images/dittoLogo.png" alt="" /></img>
           <p className="text-center">
             Personalized advice on life and health insurance. No spam and no
             mis-selling.
