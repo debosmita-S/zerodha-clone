@@ -13,7 +13,7 @@ function Team() {
           <div className="col-md-1"></div>
           <div className="col-md-4">
             <img src="media/images/nithinKamath.jpg"
-              style={{ borderRadius: "50%", width: "85%", height: "auto" }} alt="" /></img>
+              style={{ borderRadius: "50%", width: "85%", height: "auto" }} alt="" />
             <br></br>
             <br></br>
             <h4 className="text-muted" style={{ marginLeft: "60px" }}>Nithin Kamath</h4>
