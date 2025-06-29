@@ -19,27 +19,27 @@ function CreateTicket() {
       <div className="d-flex flex-wrap" style={{marginBottom:"90px"}}>
         <div className="col-4">
           <ul>
-            <a href="#" style={{ textDecoration: "none" }}>
+            <a href="demat" style={{ textDecoration: "none" }}>
               Resident individual
             </a>
           </ul>
           <ul>
-            <a href="#" style={{ textDecoration: "none" }}>
+            <a href="demat" style={{ textDecoration: "none" }}>
               Minor
             </a>
           </ul>
           <ul>
-            <a href="#" style={{ textDecoration: "none" }}>
+            <a href="demat" style={{ textDecoration: "none" }}>
               Non Resident Indian (NRI)
             </a>
           </ul>
           <ul>
-            <a href="#" style={{ textDecoration: "none" }}>
+            <a href="demat" style={{ textDecoration: "none" }}>
               Company, Partnership, HUF and LLP
             </a>
           </ul>
           <ul>
-            <a href="#" style={{ textDecoration: "none" }}>
+            <a href="demat" style={{ textDecoration: "none" }}>
               Glossary
             </a>
           </ul>
@@ -47,27 +47,27 @@ function CreateTicket() {
         <div className="col-4">
           <div>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Your Profile
               </a>
             </ul>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Account modification
               </a>
             </ul>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Client Master Report (CMR) and Depository Participant (DP)
               </a>
             </ul>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Nomination
               </a>
             </ul>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Transfer and conversion of securities
               </a>
             </ul>
@@ -76,32 +76,32 @@ function CreateTicket() {
         <div className="col-4">
           <div>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 IPO
               </a>
             </ul>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Trading FAQs
               </a>
             </ul>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Margin Trading Facility (MTF) and Margins
               </a>
             </ul>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Charts and orders
               </a>
             </ul>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Alerts and Nudges
               </a>
             </ul>
             <ul>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 General
               </a>
             </ul>

@@ -18,9 +18,9 @@ function LeftSection({
           <h1>{prodName}</h1>
           <p style={{marginRight:"120px"}}>{prodDesc}</p>
           <div>
-            <a href='' style={{ textDecoration: "none", color: "#1a73e8", fontWeight: "500" }}>{tryDemo}{" "}
+            <a href="demat" style={{ textDecoration: "none", color: "#1a73e8", fontWeight: "500" }}>{tryDemo}{" "}
             </a>
-            <a href='' style={{ textDecoration: "none", color: "#1a73e8", fontWeight: "500", marginLeft:"80px" }}>
+            <a href="demat" style={{ textDecoration: "none", color: "#1a73e8", fontWeight: "500", marginLeft:"80px" }}>
             {learnMore}{" "}
             </a>
           </div>

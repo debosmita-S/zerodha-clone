@@ -3,7 +3,7 @@ function Charges() {
   return (
     <div className="container">
       <p className="fs-5 mt-5 text-center mb-5">
-        <a href="" style={{ textDecoration: "none" }}>
+        <a href="demat" style={{ textDecoration: "none" }}>
           Calculate your costs upfront
         </a>{" "}
         using our brokerage calculator

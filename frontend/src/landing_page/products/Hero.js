@@ -8,7 +8,7 @@ function Hero() {
         <p className="fs-7 mb-5">
           Check out our
           <a
-            href=""
+            href="demat"
             style={{
               textDecoration: "none",
               color: "#1a73e8",

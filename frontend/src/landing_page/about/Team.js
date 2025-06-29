@@ -37,15 +37,15 @@ function Team() {
             </p>
             <p className="fs-6 text-start text-muted">
               Connect on{" "}
-              <a href="" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Homepage
               </a>{" "}
               /{" "}
-              <a href="" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 TradingQnA
               </a>{" "}
               /{" "}
-              <a href="" style={{ textDecoration: "none" }}>
+              <a href="demat" style={{ textDecoration: "none" }}>
                 Twitter
               </a>
             </p>

@@ -10,7 +10,7 @@ function RightSection({prodName,
           <h1 style={{marginTop:"120px"}}>{prodName}</h1>
           <p style={{marginRight:"120px"}}>{prodDesc}</p>
           <div>
-            <a href='' style={{ textDecoration: "none", color: "#1a73e8", fontWeight: "500"}}>
+            <a href="demat" style={{ textDecoration: "none", color: "#1a73e8", fontWeight: "500"}}>
             {learnMore}{" "}
             </a>
           </div>

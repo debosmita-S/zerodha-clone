@@ -6,7 +6,7 @@ function Footer() {
       <div className="container">
         <div className="row mt-4">
           <div className="col-3 pt-2 me-5">
-              <a href="#" class="navbar-brand">
+              <a href="demat" class="navbar-brand">
               <img src="media/images/logo.svg" style={{ width: "70%"}} className="mb-3" alt="" />
             </a>
             <p>
@@ -31,52 +31,52 @@ function Footer() {
               {/* <p>Account</p> */}
               <h4>Account</h4>
               <ul className="list-unstyled">
-              <li><a href="#" className="footer-link">Open demat account</a></li>
-              <li><a href="#" className="footer-link">Minor demat account</a></li>
-              <li><a href="#" className="footer-link">NRI demat account</a></li>
-              <li><a href="#" className="footer-link">Commodity</a></li>
-              <li><a href="#" className="footer-link">Dematerialisation</a></li>
-              <li><a href="#" className="footer-link">Fund transfer</a></li>
-              <li><a href="#" className="footer-link">MTF</a></li>
-              <li><a href="#" className="footer-link">Referral program</a></li>
+              <li><a href="demat" className="footer-link">Open demat account</a></li>
+              <li><a href="Minor" className="footer-link">Minor demat account</a></li>
+              <li><a href="NRI" className="footer-link">NRI demat account</a></li>
+              <li><a href="Commodity" className="footer-link">Commodity</a></li>
+              <li><a href="demat" className="footer-link">Dematerialisation</a></li>
+              <li><a href="demat" className="footer-link">Fund transfer</a></li>
+              <li><a href="demat" className="footer-link">MTF</a></li>
+              <li><a href="demat" className="footer-link">Referral program</a></li>
               </ul>
 
           </div>
           <div className="col fs-5">
               <h4>Support</h4>
               <ul className="list-unstyled">
-              <li><a href="#" className="footer-link">Contact us</a></li>
-              <li><a href="#" className="footer-link">Support portal</a></li>
-              <li><a href="#" className="footer-link">How to file a complaint?</a></li>
-              <li><a href="#" className="footer-link">Status of your complaints</a></li>
-              <li><a href="#" className="footer-link">Bulletin</a></li>
-              <li><a href="#" className="footer-link">Circular</a></li>
-              <li><a href="#" className="footer-link">Z-Connect blog</a></li>
-              <li><a href="#" className="footer-link">Downloads</a></li>
+              <li><a href="demat" className="footer-link">Contact us</a></li>
+              <li><a href="demat" className="footer-link">Support portal</a></li>
+              <li><a href="demat" className="footer-link">How to file a complaint?</a></li>
+              <li><a href="demat" className="footer-link">Status of your complaints</a></li>
+              <li><a href="demat" className="footer-link">Bulletin</a></li>
+              <li><a href="demat" className="footer-link">Circular</a></li>
+              <li><a href="demat" className="footer-link">Z-Connect blog</a></li>
+              <li><a href="demat" className="footer-link">Downloads</a></li>
               </ul>
           </div>
           <div className="col fs-5">
               <h4>Company</h4>
               <ul className="list-unstyled">
-              <li><a href="#" className="footer-link">About</a></li>
-              <li><a href="#" className="footer-link">Philosophy</a></li>
-              <li><a href="#" className="footer-link">Press & media</a></li>
-              <li><a href="#" className="footer-link">Careers</a></li>
-              <li><a href="#" className="footer-link">Zerodha Cares (CSR)</a></li>
-              <li><a href="#" className="footer-link">Zerodha.tech</a></li>
-              <li><a href="#" className="footer-link">Open source</a></li>
+              <li><a href="demat" className="footer-link">About</a></li>
+              <li><a href="demat" className="footer-link">Philosophy</a></li>
+              <li><a href="demat" className="footer-link">Press & media</a></li>
+              <li><a href="demat" className="footer-link">Careers</a></li>
+              <li><a href="demat" className="footer-link">Zerodha Cares (CSR)</a></li>
+              <li><a href="demat" className="footer-link">Zerodha.tech</a></li>
+              <li><a href="demat" className="footer-link">Open source</a></li>
               </ul>
           </div>
           <div className="col fs-5">
               <h4>Quick links</h4>
               <ul className="list-unstyled">
-              <li><a href="#" className="footer-link">Upcoming IPOs</a></li>
-              <li><a href="#" className="footer-link">Brokerage charges</a></li>
-              <li><a href="#" className="footer-link">Market holidays</a></li>
-              <li><a href="#" className="footer-link">Economic calendar</a></li>
-              <li><a href="#" className="footer-link">Calculators</a></li>
-              <li><a href="#" className="footer-link">Markets</a></li>
-              <li><a href="#" className="footer-link">Sectors</a></li>
+              <li><a href="demat" className="footer-link">Upcoming IPOs</a></li>
+              <li><a href="demat" className="footer-link">Brokerage charges</a></li>
+              <li><a href="demat" className="footer-link">Market holidays</a></li>
+              <li><a href="demat" className="footer-link">Economic calendar</a></li>
+              <li><a href="demat" className="footer-link">Calculators</a></li>
+              <li><a href="demat" className="footer-link">Markets</a></li>
+              <li><a href="demat" className="footer-link">Sectors</a></li>
               </ul>
           </div>
         </div>
@@ -90,24 +90,24 @@ function Footer() {
               #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School,
               J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India. For any
               complaints pertaining to securities broking please write to
-              <a href="#" style={{textDecoration: "none", color: "#1a73e8"}}> complaints@zerodha.com</a>, 
-              for DP related to <a href="#" style={{textDecoration: "none", color: "#1a73e8"}}> dp@zerodha.com</a>. Please
+              <a href="demat" style={{textDecoration: "none", color: "#1a73e8"}}> complaints@zerodha.com</a>, 
+              for DP related to <a href="demat" style={{textDecoration: "none", color: "#1a73e8"}}> dp@zerodha.com</a>. Please
               ensure you carefully read the Risk Disclosure Document as prescribed
               by SEBI | ICF
             </p>
 
             <p>
               Procedure to file a complaint on 
-              <a href="#" style={{textDecoration: "none", color: "#1a73e8"}}> SEBI SCORES</a>
+              <a href="demat" style={{textDecoration: "none", color: "#1a73e8"}}> SEBI SCORES</a>
               : Register on SCORES
               portal. Mandatory details for filing complaints on SCORES: Name,
               PAN, Address, Mobile Number, E-mail ID. Benefits: Effective
               Communication, Speedy redressal of the grievances
             </p>
           <p>
-              <a href="#" style={{textDecoration: "none", color: "#1a73e8"}}>
+              <a href="demat" style={{textDecoration: "none", color: "#1a73e8"}}>
                   Smart Online Dispute Resolution</a> |
-                  <a href="#" style={{textDecoration: "none", color: "#1a73e8"}}> Grievances Redressal Mechanism</a>
+                  <a href="demat" style={{textDecoration: "none", color: "#1a73e8"}}> Grievances Redressal Mechanism</a>
           </p>
             <p>
               Investments in securities market are subject to market risks; read
@@ -130,7 +130,7 @@ function Footer() {
               bank account. As a business we don't give stock tips, and have not
               authorized anyone to trade on behalf of others. If you find anyone
               claiming to be part of Zerodha and offering such services, please
-              <a href="#" style={{textDecoration: "none", color: "#1a73e8"}}> create a ticket here</a>.
+              <a href="demat" style={{textDecoration: "none", color: "#1a73e8"}}> create a ticket here</a>.
             </p>
           </div>
           <div className="mt-4 text-muted d-flex text-center" style={{ fontSize: "14px", marginLeft:"20px" }}>

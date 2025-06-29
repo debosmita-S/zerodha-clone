@@ -43,7 +43,7 @@ function Hero() {
             >
               Track tickets
             </p> */}
-            <a href="#" className="border-bottom text-align-right" style={{ color: "white", textAlign: "right" }}>
+            <a href="demat" className="border-bottom text-align-right" style={{ color: "white", textAlign: "right" }}>
               <ul style={{ color: "white", marginRight: "10px", marginTop: "20px", fontSize:"1.2rem" }}>
                 Track tickets
               </ul>
@@ -55,13 +55,13 @@ function Hero() {
               Featured
             </p>
             <ol>
-              <a href="#" className="border-bottom" style={{ color: "white" }}>
+              <a href="demat" className="border-bottom" style={{ color: "white" }}>
                 <li style={{ color: "white", marginLeft: "50px" }}>
                   Surveillance measure on scrips - June 2025
                 </li>
               </a>
               <br></br>
-              <a href="#" className="border-bottom" style={{ color: "white" }}>
+              <a href="demat" className="border-bottom" style={{ color: "white" }}>
                 <li style={{ color: "white", marginLeft: "50px" }}>
                   Rights Entitlements listing in June 2025
                 </li>
